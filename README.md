@@ -1,7 +1,7 @@
 ### welcome!! I'm Lucas Soares
 
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, REACT, SQL, JAVA, PHP, FIGMA
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, SQL, PYTHON
 - 📫 How to reach me: lucassoaresdossantos2002@hotmail.com
 - 😄 Pronouns: He/Him
 
